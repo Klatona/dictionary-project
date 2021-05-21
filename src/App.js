@@ -15,7 +15,9 @@ export default function App() {
       <main>
         <Dictionary />
       </main>
-      <footer className="Kristen"> 
+   </div>
+   </div>
+    <footer className="Kristen"> 
        <a
           href="https://github.com/Klatona/dictionary-project"
           target="_blank"
@@ -36,8 +38,6 @@ export default function App() {
           Netlify
         </a>
       </footer>
-   </div>
-   </div>
     </div>
   );
 }
