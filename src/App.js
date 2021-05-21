@@ -16,7 +16,21 @@ export default function App() {
         <Dictionary />
       </main>
       <footer className="Kristen"> 
-        Coded by Kristen and hosted on {" "} 
+       <a
+          href="https://github.com/Klatona/dictionary-project"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          open-sourced code by,{" "}
+        </a>
+      <a
+          href="https://www.linkedin.com/in/kristenlatona"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Kristen Latona{" "}
+        </a>
+        and hosted on {" "} 
         <a href="https://jolly-sammet-acc897.netlify.app/" target="_blank"
           rel="noopener noreferrer">
           Netlify

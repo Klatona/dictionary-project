@@ -1,6 +1,7 @@
 footer {
   text-align: center;
 }
+
 .App-header {
   text-align: center;
   margin-top: 10px;
@@ -9,4 +10,13 @@ footer {
 .Kristen {
   margin-top: 10px;
   font-size: 15px;
+}
+
+.Kristen a {
+  text-decoration: none;
+}
+
+.Kristen a:hover {
+  text-decoration: underline;
+  transition: all 200ms ease-in-out;
 }
