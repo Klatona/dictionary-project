@@ -5,18 +5,16 @@ import Dictionary from "./Dictionary";
 export default function App() {
   return (
     <div className="App">
-      <div className="card body">
-        <div className="card-body background">
+     
       <header className="App-header">
     <h1>
       Dictionary
       </h1>
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="forest"/>
       </main>
-   </div>
-   </div>
+  
     <footer className="Kristen"> 
        <a
           href="https://github.com/Klatona/dictionary-project"

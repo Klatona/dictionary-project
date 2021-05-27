@@ -1,5 +1,18 @@
+body {
+  background-color: #f7f7e8;
+}
+
 footer {
   text-align: center;
+}
+
+h1 {
+  color: #557174;
+  font-size: 60px;
+}
+
+.App {
+  font-family: "Poppins", sans-serif;
 }
 
 .App-header {

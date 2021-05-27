@@ -3,3 +3,35 @@
   margin-top: 20px;
   margin-bottom: 15px;
 }
+.Dictionary h1 {
+  color: #f7f7e8;
+  font-size: 30px;
+  margin-bottom: 25px;
+}
+.Dictionary section {
+  display: block;
+  margin: 10px auto;
+  background-color: #557174;
+  max-width: 800px;
+  padding: 30px;
+  border-radius: 7px;
+  box-shadow: rgba(37, 39, 89, 0.15) 0 5px 10px 0;
+}
+
+.Dictionary input {
+  border: 1px solid #557174;
+  box-shadow: rgba(37, 39, 89, 0.15) 0 5px 10px 0;
+  border-radius: 6px;
+  padding: 15px;
+  width: 500px;
+  font-size: 18px;
+}
+
+.Dictionary .hint {
+  color: #f7f7e8;
+  position: relative;
+  right: 110px;
+  margin-top: 5px;
+  font-size: 16px;
+  font-weight: 900px;
+}
