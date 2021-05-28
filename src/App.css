@@ -13,6 +13,7 @@ h1 {
 
 .App {
   font-family: "Poppins", sans-serif;
+  padding-bottom: 50px;
 }
 
 .App-header {
@@ -29,13 +30,16 @@ h1 {
 .Kristen {
   margin-top: 10px;
   font-size: 15px;
+  color: #557174;
 }
 
 .Kristen a {
   text-decoration: none;
+  color: #557174;
 }
 
 .Kristen a:hover {
   text-decoration: underline;
   transition: all 200ms ease-in-out;
+  color: #9dad7f;
 }
