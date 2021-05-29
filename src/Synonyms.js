@@ -4,6 +4,9 @@ import "./Synonyms.css";
 export default function Synonyms(props) {
  if (props.Synonyms) {
     return(
+    <div className="similar">
+                   Similar:
+                  
     <ul className="Synonyms">
           {props.Synonyms.map(function(synonym, index){
             return (
@@ -13,6 +16,7 @@ export default function Synonyms(props) {
             )
         })}
     </ul>
+   </div>   
 );
 } else {
     return null;

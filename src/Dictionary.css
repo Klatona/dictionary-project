@@ -15,12 +15,12 @@
   max-width: 700px;
   padding: 30px;
   border-radius: 7px;
-  box-shadow: rgba(37, 39, 89, 0.15) 0 5px 10px 0;
+  box-shadow: rgba(37, 39, 89, 0.2) 0 5px 10px 0;
 }
 
 .Dictionary input {
   border: 1px solid #557174;
-  box-shadow: rgba(37, 39, 89, 0.15) 0 5px 10px 0;
+  box-shadow: rgba(37, 39, 89, 0.2) 0 5px 10px 0;
   border-radius: 6px;
   padding: 15px;
   width: 500px;
