@@ -7,7 +7,7 @@ h3 {
 .Meaning em {
   color: #c7cfb7;
 }
-.Meaning p {
+.Meaning .defExample {
   text-align: left;
   color: #f7f7e8;
   margin-top: 15px;
